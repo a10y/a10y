@@ -1,6 +1,6 @@
 Hey!
 
-I'm an engineer who has deep experience shipping products and systems across a wide set of problem domains. Here are a couple of things I've worked on over the years:
+I'm an engineer who has deep experience shipping products and systems across a wide set of problem domains. Here are a few things I've worked on over the years:
 
 * **Data analytics** - I spent years co-maintaining an internal fork of Apache Spark, finding some [bugs](https://issues.apache.org/jira/browse/PARQUET-686) and fixing them upstream as well as making (sadly closed-source) changes to the query planner and core engine
 * **Streaming systems** - I led a team in building a self-service data streaming platform that was used by airline, manufacturing and government customers for soft realtime applications
