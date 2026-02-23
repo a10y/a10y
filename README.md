@@ -14,5 +14,5 @@ Find me on
 
 * [HN](https://news.ycombinator.com/user?id=aduffy)
 * [Lobsters](https://lobste.rs/u/aduffy)
-* [Bird Site](https://twitter.com/andreweduffy)
+* [BlueSky](https://bsky.app/profile/a10y.dev)
 
